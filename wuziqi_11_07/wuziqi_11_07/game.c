@@ -82,6 +82,8 @@ void computerr_move(char board[HAN][LIE], int han, int lie)
 	count++;
 }
 
+
+
 char is_win(char board[HAN][LIE], int han, int lie)
 {
 	int i = 0;
